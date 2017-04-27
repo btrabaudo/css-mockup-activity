@@ -53,3 +53,14 @@ body { width: 100%;}
 /*****************************************************
 * ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ******************************************************/
+
+header {
+    background: orange;
+    padding: 30px;
+    margin: 0em;
+    border: 0em;
+    color: white;
+}
+h1 {
+    display: inline;
+}
